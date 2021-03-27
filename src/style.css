@@ -1,0 +1,31 @@
+#root{
+    background-image: linear-gradient(darkgreen, rgba(255,0,0,0));
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    height: 200px;
+    padding-top: 100px;
+}
+.react-form {
+    text-align: center;
+}
+
+.react-form  input{
+    padding: 10px;
+    /* box-sizing: border-box; */
+    width: 50%;
+    border-radius: 5px;
+}
+
+.react-form  button{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.react-form  table{
+    width: 100%;
+
+}
